@@ -53,5 +53,5 @@ print(optimized_prompt)
 - tiktoken
 
 ---
-Русская адаптация README: legenda_god  
+Автор: legenda_god  
 Telegram: https://t.me/FitoDomik
